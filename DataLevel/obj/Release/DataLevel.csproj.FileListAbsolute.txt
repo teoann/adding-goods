@@ -1,0 +1,15 @@
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\bin\Release\DataLevel.dll.config
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\bin\Release\DataLevel.dll
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\bin\Release\DataLevel.pdb
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\bin\Release\EntityFramework.dll
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\bin\Release\EntityFramework.SqlServer.dll
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\bin\Release\EntityFramework.xml
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\bin\Release\EntityFramework.SqlServer.xml
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\obj\Release\DataLevel.csprojAssemblyReference.cache
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\obj\Release\DataLevel.Migrations.InitialCreate.resources
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\obj\Release\DataLevel.Migrations.First.resources
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\obj\Release\DataLevel.csproj.GenerateResource.cache
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\obj\Release\DataLevel.csproj.CoreCompileInputs.cache
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\obj\Release\DataLevel.csproj.CopyComplete
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\obj\Release\DataLevel.dll
+F:\Programming\Practice\JobPreparing\GoodsAdding\DataLevel\obj\Release\DataLevel.pdb
